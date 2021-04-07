@@ -6,7 +6,7 @@
 
 ### Objetivo de la tarea
 ## Este contenido fue copiado de un repositorio de git para uso en la materia de Inteligencia Artificial para el alumno Jorge Carlos Pérez Barja
-
+"Este contenido fue copiado de un repositorio de git para uso en la materia de Inteligencia Artificial para el alumno Jorge Carlos Pérez Barja"
 Esta tarea tiene como objetivo revisar y dejar claro el desarrollo de las técnicas que se 
 estudiarán en el curso como el desarrollo de programas de agentes racionales, y se revisará
 en forma superficial el desarrollo de agentes *reactivos* y *reactivos basados en modelo*, así
